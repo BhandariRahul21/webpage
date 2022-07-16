@@ -162,7 +162,7 @@ button{
     border-radius: 30px;
     transition: .4s;
 }
-button a{
+.main button a{
     color: white;
     text-decoration: none;
     font-weight: bold;
